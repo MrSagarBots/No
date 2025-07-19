@@ -1,0 +1,10 @@
+vercel.json
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/zee5search",
+      "dest": "/api/zee5search.js"
+    }
+  ]
+}
